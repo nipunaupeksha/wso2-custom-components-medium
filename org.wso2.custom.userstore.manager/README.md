@@ -1,4 +1,4 @@
-## Custom Event Handler
+## Custom User Store Manager
 
 ### Build the Application
 - First, run the following command to build the `org.wso2.custom.userstore.manager`.
@@ -24,4 +24,4 @@ ss org.wso2.custom.userstore.manager
 ```
 
 ## Test the Custom Event Handler
-- Now if you open the WSO2 Mangement Console in `<IS_HOST>:<IS_PORT>/carbon` and go to, `Userstores` → `Add`, then you will see the custom userstore you have created is under th list of userstore manager classes available.
+- Now if you open the WSO2 Mangement Console in `<IS_HOST>:<IS_PORT>/carbon` and go to, `Userstores` → `Add`, then you will see the custom userstore you have created is under the list of userstore manager classes available.
