@@ -14,7 +14,7 @@ This repository contains custom components created for WSO2 IS.
 - Writing a Custom User Store Listener for WSO2 Identity Server 🫙 → https://medium.com/javarevisited/writing-a-custom-user-store-listener-for-wso2-identity-server-838f1adeb9ba
 - Writing a Custom Local Authenticator for WSO2 Identity Server 🖥️ → https://medium.com/javarevisited/writing-a-custom-local-authenticator-for-wso2-identity-server-️-3a1438ffcd67
 - Writing a Custom User Store Manager for WSO2 Identity Server 📦 → https://medium.com/javarevisited/writing-a-custom-user-store-manager-for-wso2-identity-server-46689e1516d6
-- Writing a Custom Grant Type for WSO2 Identity Server 🔖 →
+- Writing a Custom Grant Type for WSO2 Identity Server 🔖 → https://medium.com/javarevisited/writing-a-custom-grant-type-for-wso2-identity-server-9763afc14321
 
 ## Hashnode Articles
 
